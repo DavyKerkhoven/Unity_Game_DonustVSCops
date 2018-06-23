@@ -1,0 +1,40 @@
+Mono path[0] = 'E:/Programming/Unity Projects/Donuts-vs-Cops/test_Data/Managed'
+Mono path[1] = 'E:/Programming/Unity Projects/Donuts-vs-Cops/test_Data/Mono'
+Mono config path = 'E:/Programming/Unity Projects/Donuts-vs-Cops/test_Data/Mono/etc'
+PlayerConnection initialized from E:/Programming/Unity Projects/Donuts-vs-Cops/test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55157
+Multi-casting "[IP] 192.168.1.71 [Port] 55157 [Flags] 3 [Guid] 1594762327 [EditorId] 2990034949 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-HH13577) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55157]...
+PlayerConnection accepted from [192.168.1.71] handle:0x340
+Started listening to [0.0.0.0:55157]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56327
+PlayerConnection already initialized - listening to [0.0.0.0:55157]
+Player data archive not found at `E:/Programming/Unity Projects/Donuts-vs-Cops/test_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 22.21.13.8205]
+    Renderer: NVIDIA GeForce GTX 950M
+    Vendor:   NVIDIA
+    VRAM:     2019 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.077 seconds
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Programming\Unity Projects\Donuts-vs-Cops\test_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Waiting for finish

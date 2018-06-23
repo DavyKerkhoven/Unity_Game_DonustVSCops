@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 573e4453f51111e4aaec456bad39da68
+timeCreated: 1496713817
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Cop_Standard: {fileID: 1481149999998058, guid: b9ec661db35fc5b4e8ae087073f6ba47,
+      type: 2}
+  - Cop_Fast: {fileID: 1481149999998058, guid: ca0ba8fea968dc34a9d18eeb9673a1db, type: 2}
+  - Cop_Tank: {fileID: 1481149999998058, guid: ba95b51eaecfa3e4b9f6d4bdf2fab17e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

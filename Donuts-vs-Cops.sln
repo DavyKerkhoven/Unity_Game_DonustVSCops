@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donuts-vs-Cops", "Donuts-vs-Cops.csproj", "{210848FA-2D4F-9093-4BA6-F7AA3D22D5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donuts-vs-Cops.Editor", "Donuts-vs-Cops.Editor.csproj", "{23D3845C-DD62-F1D8-5F60-779E3F5B08C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210848FA-2D4F-9093-4BA6-F7AA3D22D5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210848FA-2D4F-9093-4BA6-F7AA3D22D5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210848FA-2D4F-9093-4BA6-F7AA3D22D5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210848FA-2D4F-9093-4BA6-F7AA3D22D5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D3845C-DD62-F1D8-5F60-779E3F5B08C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D3845C-DD62-F1D8-5F60-779E3F5B08C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D3845C-DD62-F1D8-5F60-779E3F5B08C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D3845C-DD62-F1D8-5F60-779E3F5B08C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
